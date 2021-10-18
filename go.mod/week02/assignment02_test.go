@@ -72,3 +72,4 @@ func mapStuff(t *testing.T) {
 		t.Errorf("expected map length: %d, got: %d", len(exp), len(act))
 	}
 }
+
